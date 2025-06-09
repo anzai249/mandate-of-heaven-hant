@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  je_warlord_china_special_tooltip_advance: "以下條件會#bold 推進#!#bold 進度條#!：\n•贏得#BOLD 鴉片戰爭#!\n•不再是[concept_unrecognized_power]\n•完成#BOLD 消滅君主制#![concept_journal_entry]\n•完成#BOLD 維新變法#![concept_journal_entry]\n•完成#BOLD 整合西部領土#![concept_journal_entry]"
- je_warlord_china_special_tooltip_deplete: "以下條件會#bold 減少#!#bold 進度條#!：\n•輸掉#BOLD 鴉片戰爭#!\n•未能阻止#BOLD 太平天國#!出現\n•未能重新佔領#BOLD 太平天國#!\n•#BOLD 義和團運動#!失敗\n•負債並借取[concept_loans]\n•爆發[concept_civil_war]\n•成為另一國家的[concept_subject]國\n•廢除[GetLawType('law_monarchy').GetName]\n•未完全控制#BOLD 臺灣#!\n•建立共和後嘗試復辟[GetLawType('law_monarchy').GetName]"
+ je_warlord_china_special_tooltip_deplete: "以下條件會#bold 減少#!#bold 進度條#!：\n•輸掉#BOLD 鴉片戰爭#!\n•未能阻止#BOLD 太平天國#!出現\n•未能重新佔領#BOLD 太平天國#!\n•#BOLD 義和團運動#!失敗\n•負債並借取[concept_loans]\n•爆發[concept_civil_war]\n•成為另一國家的[concept_subject]國\n•廢除[GetLawType('law_monarchy').GetName]\n•未控制#BOLD 臺灣#!\n•建立共和後嘗試復辟[GetLawType('law_monarchy').GetName]"
  je_warlord_china: "將軍與駐藏大臣"
 
  # country names
