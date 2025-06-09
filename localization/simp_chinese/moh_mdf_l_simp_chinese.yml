@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+    # MOH_MOD_DLC_BUTTON_TOOLTIP: "#T [Dlc.GetName]#!\n[Dlc.GetDesc]\n\n#low;emphasis @information !#blue;bold 天命#!已启用！#!"
+    dlc0moh: "Mandate of Heaven"
+    dlc0moh_desc: "長江黃河沿岸古老帝國的大門在這個美麗的時代中被西方悄然敲開，它能否抵禦外敵，保持獨立，還是會被外來勢力吞噬？還是說，他將放棄傳統，迎接新的時代？"

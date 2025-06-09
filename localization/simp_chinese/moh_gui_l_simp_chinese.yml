@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+  father_of_the_republic_name: "國父 #bold [GetGlobalVariable('sun_yatsen').GetCharacter.GetCustom('GetUniversalFullName')]#! "
+  father_now_at: "國父目前在：[GetGlobalVariable('sun_yatsen_in').GetCountry.GetName]"
+  father_attitude: "國父對你態度是："
+  daoguang_name: "道光皇帝 #bold [GetPlayer.GetRuler.GetFirstName]#! "
+  gong_name: "恭親王 #bold [GetPlayer.MakeScope.Var('yixin').GetCharacter.GetFirstName]#! "
+  MR_MISSING_CMF_HEADER: "缺少Community Mod Framework前置"
+  MR_MISSING_CMF_HEADER_LOC: "天命需要#V Community Mod Framework#!作為前置，請在Steam訂閱或在GitHub上下載，\n\n如果你搜索不到#V Community Mod Framework#!，請過來天命的Steam創意工坊頁面，我提供了訂閱連結。訂閱後要把它放在天命的#V 上面#!。"
+  MR_CLOSE_WINDOW_INACESSIBLE_CMF_TT: "非常抱歉，#n 為了更好相容其他模組，請訂閱Community Mod Framework#!."

@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+  ideology_moh_revolutionary: "革命派"
+  ideology_moh_revolutionary_desc: "#lore 這個領袖是革命派，主張驅除韃虜，恢復中華；創立民國，平均地權。#!"
+  ideology_moh_revolutionaries: "革命派"
+  ideology_moh_reformer: "維新派"
+  ideology_moh_reformer_desc: "#lore 這個領袖是一個主張君主立憲的維新派。#!"
+  ideology_moh_right_kmt: "國民黨右派"
+  ideology_moh_right_kmt_desc: "#lore 這個領袖是一個較保守的國民黨右派。#!"
+  ideology_eight_legged: "舉人"
+  ideology_eight_legged_desc: "#lore 這個集團大多是八股取士的科舉出身的人。#!"
+  ideology_moh_kmt: "國民黨人"
+  ideology_moh_kmt_desc: "#lore 三民主義，吾黨所宗。以建民國，以進大同。#!"
+  ideology_yang_du: "楊度"
+  ideology_yang_du_desc: "#lore 這個領袖是一個人格分裂患者。#!"
+
+  law_five_races_republic: "五族共和"
+

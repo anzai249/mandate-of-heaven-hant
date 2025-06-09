@@ -1,0 +1,19 @@
+{
+  "name" : "Mandate of Heaven Hant",
+	"id" : "top.sleepingbed.mohhant",
+  "version" : "",
+  "supported_game_version" : "",
+  "short_description" : "",
+  "tags" : ["Translation"],
+  "relationships" : [
+    {
+      "rel_type" : "dependency",
+      "id" : "top.sleepingbed.moh",
+      "display_name" : "Mandate of Heaven",
+      "resource_type" : "mod",
+    }
+  ],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

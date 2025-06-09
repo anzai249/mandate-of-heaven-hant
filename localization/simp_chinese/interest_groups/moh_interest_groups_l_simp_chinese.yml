@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+  ig_former_scholar_officials: "舊士大夫"
+  ig_former_scholar_officials_desc: "隨著君主制度的廢除，舊士大夫們的地位也隨之消失。"
+  ig_national_bourgeoisie: "民族資產階級"
+  ig_national_bourgeoisie_desc: "不同於實業家，民族資產階級相較於實業家往往資本力量更加薄弱，不過他們思想與立場相對更加進步。"
+  ig_eight_banners: "八旗"
+  ig_eight_banners_desc: "清軍入關時，滿洲人設立的八旗制度，是清朝的基本軍事組織形式，但在這個時代，八旗已經不再只是軍事組織，而是一個特權階層。"
+  ig_farmers: "農民"
+  ig_farmers_desc: "在自然經濟的基礎上，中國的農民基本上是農業經濟與家庭手工業的結合為主體的生產者，他們是中國社會的基礎。"
+  moh_ig_rural_folk_tt: "$ig_farmers$將改名為$ig_rural_folk$"
+  ig_new_armed_forces: "新軍"
+  ig_new_armed_forces_desc: "隨著中國的近代化，新式軍隊也被組建。"
