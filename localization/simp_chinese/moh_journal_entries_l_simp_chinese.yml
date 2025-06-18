@@ -201,3 +201,4 @@
   8_flags_complete_tt_channel_force_into_valor: "完成化兵為勇日誌條目"
   je_channel_force_into_valor: "化兵為勇"
   je_channel_force_into_valor_reason: "化兵為勇是為了響應[ROOT.GetCountry.GetAdjectiveNoFormatting]政府對重組綠營軍的需求而產生的，同時也與日益增強的抵禦外來侵略的軍事力量意識密切相關。"
+  channel_force_into_valor_on_complete_tt: "我們距離軍隊現代化又近了一步。"
