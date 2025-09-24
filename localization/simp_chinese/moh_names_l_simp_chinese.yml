@@ -108,6 +108,13 @@
   moh_Fanhao: "繁灝"
   moh_Wing: "閎"
   moh_Yung: "容"
+  moh_Guifen: "桂芬"
+  moh_Bao: "包"
+  moh_Shichen: "世臣"
+  moh_Yuan_2: "元" # Ruan Yuan
+  moh_Wu: "伍"
+  moh_Chongyao: "崇曜"
+  moh_Naiji: "乃濟"
 
   moh_Jebtsundamba: "哲布尊丹巴"
   moh_Luvsanchultimjigmed: "羅布藏楚都木濟克默特" #5th
@@ -130,7 +137,13 @@
   moh_Sho: "尚"
   Cuqicuq: "卓杞篤"
   Garuljigulj: "卡珞利谷"
+  Yakub_Beg: "阿古柏"
 
   # Communists
   moh_Bo: "博"
   moh_Gu: "古"
+
+
+  # Easter Eggs
+  Mori_anzai249: "Mori \"anzai249\""
+  moh_author_Tokugawa: "Tokugawa"

@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+  rule_qing_explode_at_the_beginning: "大清在遊戲開始時解體"
+  setting_qing_explode_at_the_beginning_desc: "如果啟用此規則，大清將在遊戲開始時解體。"
+  setting_qing_explode_true: "開啟"
+  setting_qing_explode_false: "關閉"
+  setting_qing_explode_true_desc: "大清將在遊戲開始時解體"
+  setting_qing_explode_false_desc: "大清將在遊戲開始時保持完整"
