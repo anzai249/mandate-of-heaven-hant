@@ -23,6 +23,10 @@
   STATE_GUANGDONG: "廣府"
   STATE_SHAOZHOU: "粵東"
   STATE_HINGGAN: "錫林郭勒"
+  XIN: "新疆"
+  XIN_ADJ: "新疆"
+  QIA: "苗"
+  QIA_ADJ: "苗"
 
   # States Overhaul
   STATE_ALXA: "西套"
