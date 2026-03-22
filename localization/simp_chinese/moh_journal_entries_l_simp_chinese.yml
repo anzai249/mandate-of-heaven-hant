@@ -242,3 +242,8 @@
   je_hui_rebellion_status_yunnan: "雲南回亂 - 雲南的[concept_turmoil]：[GetGlobalVariable('yunnan_turmoil').GetValue]/#variable 15%#!"
   je_hui_rebellion_status_nian_success_tt: "@green_checkmark! 成功鎮壓捻匪"
   je_hui_rebellion_status_yunnan_success_tt: "@green_checkmark! 成功鎮壓雲南回亂"
+  je_father_of_the_republic_lobby: "國父的支持對於統一中國至關重要。通過制定國父支持的法律、贏得國父支持的戰爭、提高國父的滿意度等方式來獲得國父的支持。"
+  je_reconquest_of_the_west_lobby: "重定新疆是爲了鞏固對西部領土的控制，防止外來勢力的干預，同時也有助於提升國家的整體實力和安全。"
+  je_new_dynasty_lobby: "推翻舊王朝，建立新王朝，還是保持現狀？選擇不同的道路將會對國家的未來產生深遠的影響。"
+  je_self_strengthing_lobby: "洋務運動是[ROOT.GetCountry.GetName]現代化進程中的重要階段，通過發展軍事、工業、教育和外交來提升國家實力。完成洋務運動的任務將有助於抵禦外來侵略，提升國家的國際地位。"
+  je_xinhai_lobby: "朝廷近期抓到幾個自稱[GetIdeology('ideology_moh_revolutionary').GetName]的人，他們的目標居然是推翻[GetLawType('law_monarchy').GetName]，搞什麼所謂的共和。"
