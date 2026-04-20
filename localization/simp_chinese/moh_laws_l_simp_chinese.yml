@@ -25,3 +25,5 @@
   law_provincial_autonomy: "聯省自治"
   law_provincial_autonomy_desc: "各省擁有高度自治權，能夠獨立制定政策和管理事務，中央政府的權力被大大削弱。"
   amendment_chinese_traditional_land_system: "中國傳統土地制度"
+  law_zhou_ritual_system: "周禮制"
+  law_zhou_ritual_system_desc: "一種以宗法與禮制爲核心的制度，通過明確的等級秩序與儀式規範維繫國家運作，依靠分封與血緣關係治理天下。\n #lore 注：周禮制（分封/封建）實際上不應是神權制的變體，不過Paradox把虔信者做成儒生，所以此處將周禮制定爲神權制的變體。#!"
