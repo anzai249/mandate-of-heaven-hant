@@ -6,3 +6,6 @@
   geographic_region_begonia_leaf: "秋海棠"
   geographic_region_han_region: "漢地"
   geographic_region_han_region_desc: "漢地十八省"
+  character_role_sun_yatsen: "[concept_character_role_sun_yatsen]"
+  concept_character_role_sun_yatsen: "總理"
+  concept_character_role_sun_yatsen_desc: "中國國民黨總理，中華民國的締造者。"
