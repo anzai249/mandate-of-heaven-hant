@@ -9,3 +9,8 @@
   character_role_sun_yatsen: "[concept_character_role_sun_yatsen]"
   concept_character_role_sun_yatsen: "總理"
   concept_character_role_sun_yatsen_desc: "中國國民黨總理，中華民國的締造者。"
+  concept_character_role_duke_yansheng: "衍聖公"
+  concept_character_role_duke_yansheng_desc: "孔子直系後裔的世襲爵位。"
+  character_role_self_strengthening_leader: "[concept_character_role_self_strengthening_leader]"
+  concept_character_role_self_strengthening_leader: "洋務派"
+  concept_character_role_self_strengthening_leader_desc: "洋務派是一個主張引進西方技術以自強的政治派系。"
