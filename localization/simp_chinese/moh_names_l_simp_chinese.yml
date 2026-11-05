@@ -36,6 +36,7 @@
   moh_Wei_1: "魏"
   moh_Qiu: "秋"
   moh_Hou: "侯"
+  moh_Pan: "潘"
 
   # 满姓
   moh_Tunggiya: "佟佳"
@@ -48,6 +49,7 @@
   moh_Irgen_Gioro: "伊爾根覺羅"
   moh_Ula_Nara: "烏拉那拉"
   moh_Hada_Nara: "哈達那拉"
+  moh_Socoro: "索綽羅"
 
   # 男名
   moh_Hao: "昊"
@@ -151,6 +153,8 @@
   # Communists
   moh_Bo: "博"
   moh_Gu: "古"
+  moh_Frederick_Townsend: "弗雷德里克·湯森德"
+  moh_Ward: "華爾"
 
 
   # Easter Eggs

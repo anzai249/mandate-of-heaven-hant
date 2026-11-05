@@ -22,6 +22,8 @@
   law_imperial_examinations_desc: "官員透過科舉制度選拔，這是一個嚴格而競爭激烈的過程，考察候選人對儒家經典、詩歌和作文的知識。"
   law_night_watchmen: "打更人"
   law_night_watchmen_desc: "打更人是城市的夜間守衛，他們在夜間巡邏，整點報時，確保居民的安全。"
+  law_heavenly_land_system: "天朝田畝制度"
+  law_heavenly_land_system_desc: "有田同耕，有飯同食，有衣同穿，有錢同使，無處不均勻，無人不飽暖。"
   law_provincial_autonomy: "聯省自治"
   law_provincial_autonomy_desc: "各省擁有高度自治權，能夠獨立制定政策和管理事務，中央政府的權力被大大削弱。"
   amendment_chinese_traditional_land_system: "中國傳統土地制度"
